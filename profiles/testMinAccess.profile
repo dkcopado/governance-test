@@ -3683,9 +3683,6 @@
     <layoutAssignments>
         <layout>ContactPointPhone-Contact Point Phone Layout</layout>
     </layoutAssignments>
-    <layoutAssignments>
-        <layout>ProcessException-Process Exception Layout</layout>
-    </layoutAssignments>
     <objectPermissions>
         <allowCreate>false</allowCreate>
         <allowDelete>false</allowDelete>
@@ -4368,15 +4365,6 @@
         <allowRead>false</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
         <object>Pricebook2</object>
-        <viewAllRecords>false</viewAllRecords>
-    </objectPermissions>
-    <objectPermissions>
-        <allowCreate>false</allowCreate>
-        <allowDelete>false</allowDelete>
-        <allowEdit>false</allowEdit>
-        <allowRead>false</allowRead>
-        <modifyAllRecords>false</modifyAllRecords>
-        <object>ProcessException</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
